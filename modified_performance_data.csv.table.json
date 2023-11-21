@@ -1,0 +1,67 @@
+{
+  "columns": [
+    {
+      "width": 51,
+      "minWidth": 40,
+      "download": false,
+      "formatter": "rowSelection",
+      "titleFormatter": "rowSelection",
+      "resizable": true,
+      "headerSort": false
+    },
+    {
+      "field": "Data Size (Bytes) - Memcpy",
+      "title": "Data Size (Bytes) - Memcpy",
+      "width": 225,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true
+    },
+    {
+      "field": "Execution Time (10^-4 s) - Memcpy",
+      "title": "Execution Time (10^-4 s) - Memcpy",
+      "width": 188,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "Data Size (Bytes) - Pinned",
+      "title": "Data Size (Bytes) - Pinned",
+      "width": 214,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true
+    },
+    {
+      "field": "Execution Time (10^-4 s) - Pinned",
+      "title": "Execution Time (10^-4 s) - Pinned",
+      "width": 266,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    },
+    {
+      "field": "Data Size (Bytes) - UVM",
+      "title": "Data Size (Bytes) - UVM",
+      "width": 117,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "string",
+      "headerSort": true
+    },
+    {
+      "field": "Execution Time (10^-4 s) - UVM",
+      "title": "Execution Time (10^-4 s) - UVM",
+      "width": 149,
+      "minWidth": 40,
+      "resizable": true,
+      "sorter": "number",
+      "headerSort": true
+    }
+  ]
+}

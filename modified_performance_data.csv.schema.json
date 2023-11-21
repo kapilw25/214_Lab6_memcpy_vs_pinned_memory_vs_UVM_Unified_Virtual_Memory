@@ -1,0 +1,27 @@
+{
+  "fields": [
+    {
+      "name": "Data Size (Bytes)",
+      "type": "string",
+      "format": "default"
+    },
+    {
+      "name": "Execution Time (10^-4 s) - Memcpy",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Execution Time (10^-4 s) - Pinned",
+      "type": "number",
+      "format": "default"
+    },
+    {
+      "name": "Execution Time (10^-4 s) - UVM",
+      "type": "number",
+      "format": "default"
+    }
+  ],
+  "missingValues": [
+    ""
+  ]
+}
